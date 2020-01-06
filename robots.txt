@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://LucyBo.github.io/sitemap.xml
+Sitemap: https://lucybo.github.io/sitemap.xml
 Host: https://lucybo.github.io
